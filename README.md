@@ -1,1 +1,1 @@
-# Deep-Learning-Labs
+# Deep Learning Labs
