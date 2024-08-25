@@ -1,2 +1,2 @@
 # Deep Learning Labs
-All of my deep learning labs!
+A collection of my lab assignments and projects from the Deep Learning Specialization by DeepLearning.AI on Coursera. Through these projects, I gained hands-on experience in building and training neural networks, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, and Transformers. I applied these models to real-world tasks like image recognition, natural language processing, and more, using Python and TensorFlow, while learning optimization techniques and best practices in deep learning.
