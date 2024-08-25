@@ -1,2 +1,2 @@
 # Logistic Regression with a Neural Network mindset
-Building a logistic regression classifier to recognize cats! It classifies photos as cat/not cat (meow?)!
+Building a logistic regression classifier to recognize cats! It classifies photos as cat/not cat (meow?)! I started by initializing the parameters, then performed forward and backward propagation to compute the cost and gradients. Next, I optimized the parameters using gradient descent, created a function to predict outcomes, and combined everything into a single model. Finally, I evaluated the model's accuracy and tested it with my own image.
