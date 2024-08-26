@@ -1,0 +1,2 @@
+# Planar data classification with one hidden layer
+Building a 2-class neural network with a hidden layer! I initialized parameters, implemented forward and backward propagation, computed cross-entropy loss, and updated parameters using gradient descent. The model was trained over multiple iterations, and I created a prediction function to classify new examples, giving me hands-on experience in neural network construction and training.
