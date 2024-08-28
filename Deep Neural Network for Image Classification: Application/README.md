@@ -1,0 +1,2 @@
+# Deep Neural Network for Image Classification: Application
+Building and training a deep L-layer neural network to classify images as cat or not-a-cat! The exercises involved using the functions I had implemented in previous assignments, including parameter initialization, forward propagation, cost computation, backward propagation, and parameter updates. I structured the network with multiple layers, applied ReLU and Sigmoid activations, and iteratively optimized the model to improve its accuracy.
