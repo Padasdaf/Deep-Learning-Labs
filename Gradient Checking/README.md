@@ -1,0 +1,2 @@
+# Gradient Checking
+Implementing gradient checking to verify the accuracy of the backpropagation implementation for a fraud detection model! The exercises involved computing both the analytical gradient using backpropagation and the numerical gradient using a small perturbation method. I then compared these gradients to ensure their alignment, indicating the correctness of the backpropagation. This process helped identify any potential errors in the gradient computation, providing confidence that the model's learning process is accurate and reliable.
