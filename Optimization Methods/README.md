@@ -1,0 +1,2 @@
+# Optimization Methods
+Implementing various advanced optimization techniques to improve the speed and effectiveness of training neural networks! These exercises included implementing gradient descent, where I updated parameters iteratively to minimize the cost function, and then advanced to more sophisticated methods like Momentum, RMSProp, and Adam. Additionally, I used random minibatches to accelerate convergence and improve optimization, which helps in dealing with large datasets.
