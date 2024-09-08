@@ -1,1 +1,2 @@
 # TensorFlow Introduction
+Exploring TensorFlow 2.3 to build and train a neural network! I learned how to use tf.Variable to define variables and distinguish them from constants. I implemented forward propagation with TensorFlow operations like matrix multiplication and relu activation, and computed the total loss using categorical_crossentropy. I also initialized neural network parameters with the GlorotNormal initializer and calculated total loss for mini-batches. These exercises demonstrated how TensorFlow simplifies neural network development and training.
