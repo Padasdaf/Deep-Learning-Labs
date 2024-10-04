@@ -1,0 +1,2 @@
+# Transfer Learning with MobileNet
+Using transfer learning with the pre-trained MobileNetV2 model to build an Alpaca/Not Alpaca classifier! I created a sequential model for data augmentation using RandomFlip and RandomRotation, then built a binary classification model by adding a data augmentation layer, preprocessing, and fully connected layers to the base MobileNetV2 model. Finally, I fine-tuned the model by unfreezing the final layers and retraining with a smaller learning rate to adapt to the new classification task.
