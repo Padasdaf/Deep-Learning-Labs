@@ -1,0 +1,2 @@
+# Image Segmentation with U-Net
+In this assignment, I built a U-Net for semantic image segmentation, labeling each pixel in self-driving car images with its corresponding class. Unlike object detection, which uses bounding boxes, U-Net predicts precise masks for objects. This pixel-level accuracy is critical for tasks like autonomous driving. The model employed a contracting path for context and an expanding path with skip connections for localization, using sparse categorical crossentropy for pixel-wise classification on the CARLA dataset.
