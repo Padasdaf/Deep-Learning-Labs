@@ -1,0 +1,2 @@
+# Face Recognition
+In the Face Recognition assignment, I built a system inspired by FaceNet to solve face verification (1:1 matching) and recognition (1:many matching) problems. Using a pre-trained model, I encoded face images into 128-dimensional vectors and implemented the triplet loss function for training. The exercises involved verifying identities and recognizing individuals by comparing the L2 distance of these encodings with a database, enabling accurate face verification and recognition tasks.
