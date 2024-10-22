@@ -1,0 +1,2 @@
+# Building a Recurrent Neural Network - Step by Step
+I implemented key components of RNNs and LSTMs using NumPy. First, I built the forward pass for an RNN cell, updating hidden states and outputs for single and full sequences. Then, I developed the forward pass for an LSTM cell, calculating gates, cell, and hidden states, and extended it for full sequences. I also implemented backpropagation for both RNN and LSTM cells, computing gradients for inputs, hidden states, and weights, and applied backpropagation through time across all time steps. 
