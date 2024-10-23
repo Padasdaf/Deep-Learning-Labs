@@ -1,0 +1,2 @@
+# Operations on Word Vectors
+I worked with pre-trained word vectors to understand word relationships. I implemented cosine similarity to measure the similarity between words and applied it to solve word analogy tasks like "man is to woman as king is to ____." Additionally, I reduced gender bias in word embeddings by neutralizing and equalizing specific word vectors. This helped in understanding both word embeddings and the techniques to address bias in NLP models.
