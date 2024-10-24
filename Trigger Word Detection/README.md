@@ -1,0 +1,2 @@
+# Trigger Word Detection
+I created a speech dataset and implemented a trigger word detection algorithm, similar to those used in devices like Amazon Alexa. I ensured audio segments were inserted without overlap, labeled when the trigger word "activate" was detected, and synthesized training examples by overlaying trigger words and random clips onto background noise. Finally, I built a deep learning model using convolutional and GRU layers to predict when "activate" is spoken, enabling the system to trigger actions like playing a chime.
