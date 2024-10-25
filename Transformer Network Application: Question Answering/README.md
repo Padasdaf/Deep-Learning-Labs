@@ -1,0 +1,2 @@
+# Transformer Network Application: Question Answering
+I fine-tuned a pre-trained transformer model for extractive Question Answering. The task involved training the model on a custom dataset where the goal was to extract relevant answers from a given context based on a question. By the end of the lab, I learned how to implement and fine-tune a QA model in both TensorFlow and PyTorch using transformer architecture.
