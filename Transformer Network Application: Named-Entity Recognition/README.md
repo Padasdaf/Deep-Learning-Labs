@@ -1,0 +1,2 @@
+# Transformer Network Application: Named-Entity Recognition
+I fine-tuned a pre-trained transformer model from the HuggingFace Library for a Named-Entity Recognition (NER) task. This involved using tokenizers to prepare the input data, aligning the tokenized text with the corresponding labels, and training the model on this labeled data. The task demonstrated how transformer models can be adapted to identify and classify named entities, such as people, organizations, or locations, in text.
